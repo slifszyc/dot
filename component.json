@@ -4,7 +4,7 @@
   "keywords": ["dot"],
   "scripts": ["index.js"],
   "dependencies": {
-    "component/type": "*"
+    "component/type": "1.0.0"
   },
   "devDependencies": {
     "visionmedia/mocha": "*",
